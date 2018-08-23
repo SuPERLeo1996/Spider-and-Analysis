@@ -1,7 +1,10 @@
 # Spider-and-Analysis
 Web Spider; Text Process;Sentiment Analysis
+
 毕业设计
+
 基于Python的商品评论数据情感分析
+
 爬虫+jieba分词+snowNLP+gensim
 
 爬虫：爬取京东商品评论
